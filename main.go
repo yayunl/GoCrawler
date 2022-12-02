@@ -110,13 +110,13 @@ func main() {
 	go wp.Run(ctx)
 	// Step 5: Gather the results
 	results := wp.Results()
-	// Step 6: Only get the valid results, meaning no error and valid authors
+	// Step 6: Only get the valid results, meaning response has no error and contains valid authors
 	authorStream := func(inDataStream <-chan pattern.Result) <-chan *Author {
 		resultStream := make(chan *Author)
 		go func() {
 			defer close(resultStream)
 			for r := range inDataStream {
-				if r.Err == nil && r.Value.(*Author).Name != "" {
+				if r.Err == nil && r.Value.(*Author).Name != "" { // author name is not empty
 					resultStream <- r.Value.(*Author)
 				}
 				// Whenever the jobs in the queue become empty, stop all goroutines/workers.
@@ -129,8 +129,11 @@ func main() {
 		return resultStream
 	}
 
+	discoveredAuthors := 0
 	for author := range authorStream(results) {
 		fmt.Printf("name: %s, born date: %s, born place: %s, about: %s \n", author.Name, author.BornDate, author.BornPlace, author.AboutURI)
+		discoveredAuthors += 1
 	}
+	fmt.Printf("Total items scraped: %d\n", discoveredAuthors)
 	fmt.Printf("Total elapsed time: %v\n", time.Since(start))
 }

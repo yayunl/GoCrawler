@@ -1,0 +1,56 @@
+name: Marilyn Monroe, born date: June 01, 1926, born place: in The United States, about: http://quotes.toscrape.com/author/Marilyn-Monroe
+name: Albert Einstein, born date: March 14, 1879, born place: in Ulm, Germany, about: http://quotes.toscrape.com/author/Albert-Einstein
+name: J.K. Rowling, born date: July 31, 1965, born place: in Yate, South Gloucestershire, England, The United Kingdom, about: http://quotes.toscrape.com/author/J-K-Rowling
+name: Jane Austen, born date: December 16, 1775, born place: in Steventon Rectory, Hampshire, The United Kingdom, about: http://quotes.toscrape.com/author/Jane-Austen
+name: Steve Martin, born date: August 14, 1945, born place: in Waco, Texas, The United States, about: http://quotes.toscrape.com/author/Steve-Martin
+name: Mark Twain, born date: November 30, 1835, born place: in Florida, Missouri, The United States, about: http://quotes.toscrape.com/author/Mark-Twain
+name: André Gide, born date: November 22, 1869, born place: in Paris, France, about: http://quotes.toscrape.com/author/Andre-Gide
+name: Terry Pratchett, born date: April 28, 1948, born place: in Beaconsfield, Buckinghamshire, England, The United Kingdom, about: http://quotes.toscrape.com/author/Terry-Pratchett
+
+name: Thomas A. Edison, born date: February 11, 1847, born place: in Milan, Ohio, The United States, about: http://quotes.toscrape.com/author/Thomas-A-Edison
+name: Garrison Keillor, born date: August 07, 1942, born place: in Anoka, Minnesota, The United States, about: http://quotes.toscrape.com/author/Garrison-Keillor
+name: Stephenie Meyer, born date: December 24, 1973, born place: in Connecticut, The United States, about: http://quotes.toscrape.com/author/Stephenie-Meyer
+name: Jim Henson, born date: September 24, 1936, born place: in Greenville, Mississippi, The United States, about: http://quotes.toscrape.com/author/Jim-Henson
+name: Douglas Adams, born date: March 11, 1952, born place: in Cambridge, England, The United Kingdom, about: http://quotes.toscrape.com/author/Douglas-Adams
+name: Jorge Luis Borges, born date: August 24, 1899, born place: in Buenos Aires, Argentina, about: http://quotes.toscrape.com/author/Jorge-Luis-Borges
+name: Eleanor Roosevelt, born date: October 11, 1884, born place: in The United States, about: http://quotes.toscrape.com/author/Eleanor-Roosevelt
+name: Elie Wiesel, born date: September 30, 1928, born place: in Sighet, Romania, about: http://quotes.toscrape.com/author/Elie-Wiesel
+name: Dr. Seuss, born date: March 02, 1904, born place: in Springfield, MA, The United States, about: http://quotes.toscrape.com/author/Dr-Seuss
+name: Charles M. Schulz, born date: November 26, 1922, born place: in Minneapolis, MN, The United States, about: http://quotes.toscrape.com/author/Charles-M-Schulz
+name: Bob Marley, born date: February 06, 1945, born place: in Nine Mile, Saint Ann, Jamaica, about: http://quotes.toscrape.com/author/Bob-Marley
+name: C.S. Lewis, born date: November 29, 1898, born place: in Belfast, Ireland, about: http://quotes.toscrape.com/author/C-S-Lewis
+name: Ernest Hemingway, born date: July 21, 1899, born place: in Oak Park, Illinois, The United States, about: http://quotes.toscrape.com/author/Ernest-Hemingway
+name: Friedrich Nietzsche, born date: October 15, 1844, born place: in Röcken bei Lützen, Prussian Province of Saxony, Germany, about: http://quotes.toscrape.com/author/Friedrich-Ni
+etzsche
+name: Mother Teresa, born date: August 26, 1910, born place: in Skopje, Macedonia, the Former Yugoslav Republic of, about: http://quotes.toscrape.com/author/Mother-Teresa
+name: E.E. Cummings, born date: October 14, 1894, born place: in Cambridge, Massachusetts, The United States, about: http://quotes.toscrape.com/author/E-E-Cummings
+name: Allen Saunders, born date: April 24, 1899, born place: in The United States, about: http://quotes.toscrape.com/author/Allen-Saunders
+name: William Nicholson, born date: January 12, 1948, born place: in Lewes, Sussex, The United Kingdom, about: http://quotes.toscrape.com/author/William-Nicholson
+name: Haruki Murakami, born date: January 12, 1949, born place: in Kyoto, Japan, about: http://quotes.toscrape.com/author/Haruki-Murakami
+name: Suzanne Collins, born date: August 11, 1962, born place: in Hartford, Connecticut, The United States, about: http://quotes.toscrape.com/author/Suzanne-Collins
+name: Pablo Neruda, born date: July 12, 1904, born place: in Parral, Chile, about: http://quotes.toscrape.com/author/Pablo-Neruda
+name: Alfred Tennyson, born date: August 06, 1809, born place: in Somersby, Lincolnshire, The United Kingdom, about: http://quotes.toscrape.com/author/Alfred-Tennyson
+name: George Eliot, born date: November 22, 1819, born place: in South Farm, Arbury Hall, Nuneaton, Warwickshire, The United Kingdom, about: http://quotes.toscrape.com/author/George
+-Eliot
+name: Charles Bukowski, born date: August 16, 1920, born place: in Andernach, Germany, about: http://quotes.toscrape.com/author/Charles-Bukowski
+name: Jimi Hendrix, born date: November 27, 1942, born place: in Seattle, Washington, The United States, about: http://quotes.toscrape.com/author/Jimi-Hendrix
+name: George R.R. Martin, born date: September 20, 1948, born place: in Bayonne, New Jersey, The United States, about: http://quotes.toscrape.com/author/George-R-R-Martin
+name: Martin Luther King Jr., born date: January 15, 1929, born place: in Atlanta, Georgia, The United States, about: http://quotes.toscrape.com/author/Martin-Luther-King-Jr
+name: George Carlin, born date: May 12, 1937, born place: in New York, New York, The United States, about: http://quotes.toscrape.com/author/George-Carlin
+name: J.D. Salinger, born date: January 01, 1919, born place: in Manhattan, New York, The United States, about: http://quotes.toscrape.com/author/J-D-Salinger
+name: Helen Keller, born date: June 27, 1880, born place: in Tuscumbia, Alabama, The United States, about: http://quotes.toscrape.com/author/Helen-Keller
+name: James Baldwin, born date: August 02, 1924, born place: in Harlem, New York, The United States, about: http://quotes.toscrape.com/author/James-Baldwin
+name: Madeleine L'Engle, born date: November 29, 1918, born place: in New York City, New York, The United States, about: http://quotes.toscrape.com/author/Madeleine-LEngle
+name: George Bernard Shaw, born date: July 26, 1856, born place: in Dublin, Ireland, about: http://quotes.toscrape.com/author/George-Bernard-Shaw
+name: John Lennon, born date: October 09, 1940, born place: in Liverpool, England, The United Kingdom, about: http://quotes.toscrape.com/author/John-Lennon
+name: Ralph Waldo Emerson, born date: May 25, 1803, born place: in Boston, Massachusetts, The United States, about: http://quotes.toscrape.com/author/Ralph-Waldo-Emerson
+name: W.C. Fields, born date: January 29, 1880, born place: in Darby, Pennsylvania, The United States, about: http://quotes.toscrape.com/author/W-C-Fields
+name: J.M. Barrie, born date: May 09, 1860, born place: in Kirriemuir, Angus, Scotland, The United Kingdom, about: http://quotes.toscrape.com/author/J-M-Barrie
+name: Khaled Hosseini, born date: March 04, 1965, born place: in Kabul, Afghanistan, about: http://quotes.toscrape.com/author/Khaled-Hosseini
+name: Alexandre Dumas-fils, born date: July 27, 1824, born place: in Paris, France, about: http://quotes.toscrape.com/author/Alexandre-Dumas-fils
+name: J.R.R. Tolkien, born date: January 03, 1892, born place: in Bloemfontein, Mangaung, Free State, South Africa, about: http://quotes.toscrape.com/author/J-R-R-Tolkien
+name: Ayn Rand, born date: February 02, 1905, born place: in St. Petersburg, Russian Federation, about: http://quotes.toscrape.com/author/Ayn-Rand
+name: Harper Lee, born date: April 28, 1926, born place: in Monroeville, Alabama, The United States, about: http://quotes.toscrape.com/author/Harper-Lee
+
+Total items scraped: 50
+Total elapsed time: 4.4042783s
