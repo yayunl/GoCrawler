@@ -9,6 +9,12 @@ import (
 	"time"
 )
 
+const (
+	// MaxWorkers should be equal or less than 20 to avoid DNS lookup failure.
+	// The target server would block the flood of incoming requests.
+	MaxWorkers = 20
+)
+
 type Author struct {
 	Name        string
 	BornDate    string
@@ -101,7 +107,7 @@ func main() {
 	// Step 1: Create a batch of tasks
 	tasks := createTasks([]string{"http://quotes.toscrape.com/"})
 	// Step 2: Create a pool of workers
-	wp := pattern.New(20, len(tasks))
+	wp := pattern.New(MaxWorkers, len(tasks))
 
 	// Step 3: Assign the tasks to the workers
 	pattern.JobGenerator(done, jobStream, tasks)
